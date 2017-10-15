@@ -1,0 +1,60 @@
+[hidden] {
+  display: none !important;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.navbar-default
+{
+  background-color: navajowhite;
+  color: black;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  color: black;
+  background: orange;
+}
+
+.navbar-default .navbar-nav > a {
+  color: black;
+  background: orange;
+}
+
+.navbar-default .navbar-nav > a {
+  color: black;
+  background: orange;
+}
+
+.btn {
+  color: black;
+  background: lightgrey;
+}
+
+.btn:hover {
+  color: black;
+  background: lightsteelblue;
+}
+
+.btn > a{
+  color: black;
+  background: lightgrey;
+}
+
+.custom-file-upload
+{
+  border: 1px solid lightgrey;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  color: black;
+  font-size: 17px;
+  background-color: lightgrey;
+}
+
+.custom-file-upload:hover {
+  background-color: lightsteelblue;
+  border: 1px solid lightsteelblue;
+}
