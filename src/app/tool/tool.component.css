@@ -1,0 +1,44 @@
+[hidden] {
+  display: none !important;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.navbar-default
+{
+  background-color: navajowhite;
+  color: black;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  color: black;
+  background: orange;
+}
+
+.navbar-default .navbar-nav > a {
+  color: black;
+  background: orange;
+}
+
+.navbar-default .navbar-nav > a {
+  color: black;
+  background: orange;
+}
+
+.btn {
+  color: black;
+  background: lightgrey;
+}
+
+.btn:hover {
+  color: black;
+  background: lightsteelblue;
+}
+
+.btn > a{
+  color: black;
+  background: lightgrey;
+}
+
